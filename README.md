@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Binh 👋
 
 <!--
 **pe4cechu/pe4cechu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔒 Aspiring Cybersecurity Analyst with a passion for protecting systems and data from cyber threats.
+🎓 Currently studying Computer Science at Ho Chi Minh University of Technology
+💻 Skills: Network Security, Threat Analysis, Penetration Testing, Cryptography.
+🔍 Seeking internship opportunities in cybersecurity to apply my knowledge and gain hands-on experience.
+📫 Reach me at: [Gmail](binh.phanpeace@hcmut.edu.vn) | [[LinkedIn Profile]](https://www.linkedin.com/in/binhphanthanh/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pe4cechu&show_icons=true&theme=radical)
