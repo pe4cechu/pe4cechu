@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 🎓 Currently studying Computer Science at Ho Chi Minh University of Technology
 - 💻 Skills: Network Security, Threat Analysis, Penetration Testing, Cryptography.
 - 🔍 Seeking internship opportunities in cybersecurity to apply my knowledge and gain hands-on experience.
-- 📫 Reach me at: [Gmail](binh.phanpeace@hcmut.edu.vn) | [[LinkedIn Profile]](https://www.linkedin.com/in/binhphanthanh/)
+- 📫 Reach me at: [Gmail](binh.phanpeace@hcmut.edu.vn) | [[LinkedIn]](https://www.linkedin.com/in/binhphanthanh/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pe4cechu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
