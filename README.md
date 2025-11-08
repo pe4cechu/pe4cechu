@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔍 Seeking internship opportunities in cybersecurity or network engineering to apply my knowledge and gain hands-on experience.
-- 🔒 Aspiring Cybersecurity Analyst with a strong passion for safeguarding digital infrastructure and mitigating cyber threats.
-- 💻 Skills: Network Security, Threat Analysis, Penetration Testing, Cryptography.
-- 🎓 Currently studying Computer Science at Ho Chi Minh University of Technology.
 - 📫 Reach me at: [Gmail](binh.phanpeace@hcmut.edu.vn) | [LinkedIn](https://www.linkedin.com/in/binhphanthanh/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pe4cechu&show_icons=true&theme=radical)
